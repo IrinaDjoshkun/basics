@@ -1,7 +1,7 @@
 # basics
 Basic skills of c++
 
-In this course I've learnt what means compilation, project assembly, variables, functions, loops, arrays and structures.
+In this course I've learnt compilation, project assembly, variables, functions, loops, arrays and structures.
 Firts file contains types of variables, enums, arrays and structures.
 There are arithmetic calculations and 3D arrays in the second file.
 Thrid file contains codes with if / else conditions, searching for odd numbers, prime numbers, determining whether the year is a leap year.
